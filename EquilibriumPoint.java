@@ -23,7 +23,6 @@ public class EquilibriumPoint {
         }
         return -1;
     }
-
     static void main(String[] args) {
 
         int[] input1 = {-7, 1, 5, 2, -4, 3, 0};
