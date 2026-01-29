@@ -31,7 +31,6 @@ public class IndicesOfSubarray {
         list.add(-1);
         return list;
     }
-
      static void main(String[] args) {
 
         int[] arr = {1, 2, 3, 7, 5};
