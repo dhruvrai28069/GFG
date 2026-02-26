@@ -9,6 +9,7 @@ public class Search_in_an_almost_Sorted_Array {
         while(low <= high){
 
             int mid = low + (high - low)/2;
+
             if(target == arr[mid]){
                 return mid;
             }
