@@ -18,7 +18,6 @@ public class Knapsack01 {
     public int knapsack(int W, int val[], int wt[]) {
 
         int n = val.length;
-
         int[][] t = new int[n + 1][W + 1];
 
         for(int i = 0; i < n + 1; i++){
