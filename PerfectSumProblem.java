@@ -25,6 +25,5 @@ public class PerfectSumProblem {
             }
         }
         return t[n][sum];
-
     }
 }
